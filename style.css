@@ -1,0 +1,47 @@
+/*Common Paramenters*/
+body {
+    background-color: #252F4D;
+}
+h1 {
+    color: #D9A45D
+}
+h2 {
+    color: #D9A45D
+}
+h3 {
+    color: #D9A45D
+}
+a:link {
+    color: #D9A45D;
+    text-decoration:  none;
+}
+a:visited {
+    color: #D9A45D;
+    text-decoration:  none;
+}
+a:hover {
+    color:#4c4b2c;
+    text-decoration:  none;
+}
+a:active {
+    color: #D9A45D;
+    text-decoration:  none;
+}
+p {
+    color: #f2eee0;
+}
+
+
+/*specific */
+.picture_buttons {
+    align-items: center;
+}
+.contact_us {
+    color: #f2eee0
+}
+
+img {
+    max-width: 33%;
+    height: auto;
+
+}
